@@ -205,38 +205,6 @@ st.markdown("""
     <span style="color: #fab1a0; font-weight: 500;">   journey classes</span>,<br>
     and <span style="color: #ffeaa7; font-weight: 500;">survival odds</span> all at your fingertips.
 </div>
-<div style="
-    position: fixed;
-    bottom: 1.5rem;
-    left: 1.5rem;
-    text-align: left;
-    padding: 1rem;
-    background: #0f2027;
-    border-radius: 8px;
-    max-width: 40%;
-    z-index: 9999;
-">
-    This interactive explorer lets you dive deep into<br>
-    <span style="color: #81ecec; font-weight: 500;">passenger demographics</span>,
-    <span style="color: #fab1a0; font-weight: 500;">journey classes</span>,<br>
-    and <span style="color: #ffeaa7; font-weight: 500;">survival odds</span> all at your fingertips.
-</div>
-<div style="
-    position: fixed;
-    bottom: 1.5rem;
-    right: 1.5rem;
-    text-align: left;
-    padding: 1rem;
-    background: #0f2027;
-    border-radius: 8px;
-    max-width: 40%;
-    z-index: 9999;
-">
-    <span style="color: #55efc4; font-weight: 500;">Use the intuitive sidebar filters</span><br>
-    to focus on specific groups, and&nbsp;
-    <span style="color: #a29bfe; font-weight: 500;">bring the story of the Titanic to life</span> through data.
-</div>
-
 """, unsafe_allow_html=True)
 
 
